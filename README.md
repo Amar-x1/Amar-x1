@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **A lot of things**
 
-- 👨‍💻 Personal [site](amar-x1.github.io/1/) (still working on it)
+- 👨‍💻 Personal [site](https://amar-x1.github.io/1/) (still working on it)
 
 - ⚡ Fun fact **i like to waste time on discord**
 
